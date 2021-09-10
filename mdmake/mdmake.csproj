@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>MDMAKE</PackageId>
+    <Authors>ngtnn</Authors>
+    <Product>ngtnn</Product>
+    <Company>ngtnn</Company>
+    <Description>A command-line utility that reads source-code files (in C#, PHP, etc.) and generates a consolidated markdown file (README.md) from its comments.</Description>
+    <Copyright></Copyright>
+    <PackageProjectUrl>https://github.com/ntgnn/mdmake</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ntgnn/mdmake.git</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <AssemblyVersion>0.0.0.0</AssemblyVersion>
+    <FileVersion>0.0.0.0</FileVersion>
+    <PackageReleaseNotes>Test!</PackageReleaseNotes>
+    <Version>0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+  </ItemGroup>
+
+</Project>

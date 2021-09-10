@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mdmake", "mdmake.csproj", "{4D49FF1B-CE3C-478C-A1BE-58FA1906A97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D49FF1B-CE3C-478C-A1BE-58FA1906A97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49FF1B-CE3C-478C-A1BE-58FA1906A97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49FF1B-CE3C-478C-A1BE-58FA1906A97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49FF1B-CE3C-478C-A1BE-58FA1906A97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75EC80CD-365B-4236-9B56-31CEEF90FABB}
+	EndGlobalSection
+EndGlobal
