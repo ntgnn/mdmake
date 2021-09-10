@@ -4,7 +4,7 @@ A command-line utility that reads source-code files (in C#, PHP, etc.) and gener
 
 I had in mind the following principles:
 1. Some documentation is better than none;
-2. Generated, dynamic documentation is better than static (because it will by outdated soon);
+2. Generated, dynamic documentation is better than static (because it will outdated soon);
 3. For some (or most) projects, what matters is the README.md. Ain't nobody got time to read dozens of Help Pages;
 4. I wanted a single and simple way to generate the docs. This is why I only support single-line comments. Ain't nobody got time to deal with complex grammar processing of multi-line/block comments;
 
