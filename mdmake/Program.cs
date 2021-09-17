@@ -18,7 +18,7 @@ namespace mdmake
         {
             try
             {
-                Console.WriteLine("MDMAKER");
+                Console.WriteLine("MDMAKE");
                 var maker = new MdMaker();
                 var analyzed = maker.ReadInput(opts.InputFiles);
                 var extracted = maker.ExtractFiles(analyzed);
